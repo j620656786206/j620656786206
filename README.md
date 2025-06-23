@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating and 
 
 ## 🔥 Recent Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=j620656786206&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-hazel.vercel.app?user=j620656786206&theme=radical)](https://git.io/streak-stats)
 
 ---
 
