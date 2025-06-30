@@ -23,7 +23,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating and 
 
 ## 🔥 Recent Activity
 
-[![GitHub Streak](https://github-readme-streak-stats-ten-hazel.vercel.app?user=j620656786206&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats-ten-hazel.vercel.app?user=j620656786206&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
